@@ -8,3 +8,5 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+.venv/*
+lesson_1/is-it-a-bird-creating-a-model-from-your-own-data/bird_or_not/*
